@@ -1,4 +1,3 @@
-# Minitalk
 ###
 <p align="center">
   <img src="else/cover-minitalk-bonus.png" alt="ready to help"/>
@@ -7,6 +6,9 @@
 <p align="center">
   <img src="else/minitalkm.png" alt="ready to help"/>
 </p>
+<h1 align="center">
+ 42 Project - MINITALK
+</h1>
 
 ## Overview
 
